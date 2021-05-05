@@ -6,3 +6,4 @@ TODO
 -add basic template
 -temporary add pdflatex-builder
 -temporary add cleanup bash-script
+  rm .toc,.log anmd .aux file
